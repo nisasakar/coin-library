@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885036990821",
+    "project_id": "coin-library-1f856",
+    "storage_bucket": "coin-library-1f856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885036990821:android:db7d7a2247ada3f29ca18c",
+        "android_client_info": {
+          "package_name": "com.example.coinlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7d0_fjFlbECjQStsZ0ElnpdbPgTpioo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

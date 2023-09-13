@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home"
+    app:startDestination="@id/fragmentCoinList">
+
+    <fragment
+        android:id="@+id/fragmentCoinList"
+        android:name="com.example.coinlibrary.ui.coinlist.fragment.FragmentCoinList"
+        android:label="FragmentCoinList"
+        tools:layout="@layout/fragment_coin_list">
+        <action
+            android:id="@+id/action_fragmentCoinList_to_fragmentCoinDetail"
+            app:destination="@id/fragmentCoinDetail" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentFavorites"
+        android:name="com.example.coinlibrary.ui.favorites.fragment.FragmentFavorites"
+        android:label="FragmentFavorites"
+        tools:layout="@layout/fragment_favorites" />
+    <fragment
+        android:id="@+id/fragmentCoinDetail"
+        android:name="com.example.coinlibrary.ui.coindetail.fragment.FragmentCoinDetail"
+        android:label="FragmentCoinDetail"
+        tools:layout="@layout/fragment_coin_detail" />
+</navigation>

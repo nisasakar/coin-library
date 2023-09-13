@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">loodosCase</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_result_founded">No result founded</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="symbol">Symbol: %%%</string>
+    <string name="current_price">Current Price: %%%</string>
+    <string name="hashing_algorithm">Hashing Algorithm: </string>
+    <string name="description">Description: </string>
+    <string name="set_interval">Set Interval</string>
+    <string name="interval">Interval</string>
+    <string name="price_change_percentage">Price Change</string>
+    <string name="no_favorited_coin_founded">No Favorited Coin Founded.</string>
+</resources>
