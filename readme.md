@@ -1,5 +1,12 @@
 <br />
 
+<p align="middle">
+  <img width="200" src="appimages/img_home.png">
+  <img width="200" src="appimages/img_favs.png">
+  <img width="200" src="appimages/img_detail.png">
+
+</p>
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
