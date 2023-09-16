@@ -1,6 +1,7 @@
 <br />
 
 <p align="middle">
+  <img width="200" src="appimages/img_login.png">
   <img width="200" src="appimages/img_home.png">
   <img width="200" src="appimages/img_favs.png">
   <img width="200" src="appimages/img_detail.png">
